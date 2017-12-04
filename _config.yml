@@ -1,6 +1,6 @@
 # Site settings
 title: Siddharth Bhalla
-name: Siddharth Bhalla
+name: Siddharth Bhalla <br/> siddharthbhalla98@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,6 @@ primarylinks:
    url: https://www.linkedin.com/in/siddharth-bhalla-829853144/
  - title: Angel.Co
    url: https://angel.co/siddharth-bhalla?public_profile=1
- - title: siddharthbhalla98@gmail.com
 
 #Any buzzword skills you want to include
 skills:
