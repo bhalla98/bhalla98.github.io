@@ -28,12 +28,12 @@ skills:
  - NSLinguistic Tagger
  - AVFoundation
 
-roles:
- - title: iOS Developer (Intern)
-   start: 2017 (Dec)
-   end: 2018 (Feb)
-   employer: Bitparx
-   description: Bitparx is a cryptocurrency trading startup from IIT Delhi <br/> I was the sole iOS Developer on the project. I focused on front-end UI/UX design and implementation.
+#roles:
+ #- title: iOS Developer (Intern)
+  #start: 2017 (Dec)
+   #end: 2018 (Feb)
+   #employer: Bitparx
+   #description: Bitparx is a cryptocurrency trading startup from IIT Delhi <br/> I was the sole iOS Developer on the project. I focused on front-end UI/UX design and implementation.
 
 #Work experience is required
 roles:
