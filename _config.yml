@@ -39,8 +39,6 @@ roles:
    description: Uses AVFoundation to record user’s voice input using the device’s microphone. It then allows users to play the recorded sound back with six different Sound Modulations:Chipmunk, Darth Vader, Slow, Fast with Reverb and Echo effect.
  - title: MagicalGrid
    description: Swipe and Zoom animation on grids using UIKit, Core Animation and Core Graphics.
- - title: RefME-DTU (Current)	
-   description: iOS App allows DTU students to download reference study material, question papers, exam related documents. Navigates students within campus using Google Maps API.
 
 #Education is required
 education:
